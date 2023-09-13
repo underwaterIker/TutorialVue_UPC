@@ -19,7 +19,7 @@ export default defineComponent({
 <style scoped>
     .leftStyle {
             border-style: solid;
-            border-color: yellow;
+            border-color: rgb(233, 233, 11);
             width: 50%;
         }
 </style>
